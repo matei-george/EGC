@@ -9,7 +9,7 @@ using OpenTK.Graphics.OpenGL;
 using OpenTK.Input;
 using OpenTK.Platform;
 
-namespace Tema_Laborator_3
+namespace Tema_Laborator_2
 {
     class SimpleWindow : GameWindow
     {
