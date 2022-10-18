@@ -1,0 +1,15 @@
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\Tema_Laborator_3.exe.config
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\Tema_Laborator_3.exe
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\Tema_Laborator_3.pdb
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\OpenTK.dll
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\OpenTK.GLControl.dll
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\OpenTK.pdb
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\OpenTK.xml
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\OpenTK.GLControl.pdb
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\bin\Debug\OpenTK.GLControl.xml
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.csproj.AssemblyReference.cache
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.csproj.SuggestedBindingRedirects.cache
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.csproj.CoreCompileInputs.cache
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.csproj.CopyComplete
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.exe
+D:\Programare\EGC\Laboratoare\Tema_Laborator_3\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.pdb
