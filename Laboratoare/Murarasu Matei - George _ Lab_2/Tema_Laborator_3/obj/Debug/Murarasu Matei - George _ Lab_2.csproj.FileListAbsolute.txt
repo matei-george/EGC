@@ -1,0 +1,15 @@
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\Tema_Laborator_3.exe.config
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\Tema_Laborator_3.exe
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\Tema_Laborator_3.pdb
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\OpenTK.dll
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\OpenTK.GLControl.dll
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\OpenTK.pdb
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\OpenTK.xml
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\OpenTK.GLControl.pdb
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\bin\Debug\OpenTK.GLControl.xml
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\obj\Debug\Murarasu Matei - George _ Lab_2.csproj.AssemblyReference.cache
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\obj\Debug\Murarasu Matei - George _ Lab_2.csproj.SuggestedBindingRedirects.cache
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\obj\Debug\Murarasu Matei - George _ Lab_2.csproj.CoreCompileInputs.cache
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\obj\Debug\Murarasu Matei - George _ Lab_2.csproj.CopyComplete
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.exe
+D:\Programare\EGC\Laboratoare\Murarasu Matei - George _ Lab_2\Tema_Laborator_3\obj\Debug\Tema_Laborator_3.pdb
