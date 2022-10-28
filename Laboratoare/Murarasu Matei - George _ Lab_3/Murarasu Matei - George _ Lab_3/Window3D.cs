@@ -3,24 +3,23 @@ using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Input;
 using System;
-using System.Collections.Generic;
-using System.Drawing.Drawing2D;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace Murarasu_Matei___George___Lab_3
 {
     class Window3D : GameWindow
     {
+        private Randomizer random;
+        private Triangle shape;
         public Window3D() : base(800, 600, new GraphicsMode(256, 64, 0, 64))
         {
             VSync = VSyncMode.On;
 
             Console.WriteLine("OpenGL v." + GL.GetString(StringName.Version));
             Title = "OpenGL v." + GL.GetString(StringName.Version) + " tema laborator 3";
+
+            random = new Randomizer();
+            shape = new Triangle(random);
         }
         protected override void OnLoad(EventArgs e)
         {
@@ -56,6 +55,18 @@ namespace Murarasu_Matei___George___Lab_3
             {
                 Exit();
             }
+            if (tastatura[Key.C])
+            {
+                shape.SetColor(random);
+            }
+            if (mouse.X > 250)
+            {
+                GL.Rotate(1, 0,1,0);
+            }
+            if (mouse.Y > 250)
+            {
+                GL.Rotate(1, 1, 0, 0);
+            }
 
         }
         protected override void OnRenderFrame(FrameEventArgs e)
@@ -65,9 +76,9 @@ namespace Murarasu_Matei___George___Lab_3
             GL.Clear(ClearBufferMask.ColorBufferBit);
             GL.Clear(ClearBufferMask.DepthBufferBit);
             DrawLineAxes();
-            DrawEntities();
-            DrawLines();
-
+            //DrawEntities();
+            //DrawLines();
+            shape.DrawShape();
             SwapBuffers();
         }
         // Laborator_3 :: Cerinta nr_1
