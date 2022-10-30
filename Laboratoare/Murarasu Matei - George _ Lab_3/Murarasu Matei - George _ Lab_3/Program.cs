@@ -11,8 +11,8 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 // TODO
-// > La apasarea unui set de taste modificam culoarea triunghiului (coord in fisier text).
-// > Manipularea valorilor RGB pentru fiecare vertex definit + afisare valori in consola.
+// > La apasarea unui set de taste modificam culoarea triunghiului (coord in fisier text).[LEFT TODO]
+// > Manipularea valorilor RGB pentru fiecare vertex definit + afisare valori in consola. [DONE]
 namespace Murarasu_Matei___George___Lab_3
 {
    class Program : GameWindow{

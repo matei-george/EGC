@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtributeFizice3d", "AtributeFizice3d\AtributeFizice3d.csproj", "{62A0B78E-C473-4B91-93DD-AB1108EB79AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A0B78E-C473-4B91-93DD-AB1108EB79AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A0B78E-C473-4B91-93DD-AB1108EB79AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A0B78E-C473-4B91-93DD-AB1108EB79AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A0B78E-C473-4B91-93DD-AB1108EB79AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47792F19-F8AF-4608-9D9C-EE56AE0DFB18}
+	EndGlobalSection
+EndGlobal

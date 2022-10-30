@@ -1,0 +1,15 @@
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\obj\Debug\AtributeFizice3d.csproj.AssemblyReference.cache
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\obj\Debug\AtributeFizice3d.csproj.SuggestedBindingRedirects.cache
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\obj\Debug\AtributeFizice3d.csproj.CoreCompileInputs.cache
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\AtributeFizice3d.exe.config
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\AtributeFizice3d.exe
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\AtributeFizice3d.pdb
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\OpenTK.dll
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\OpenTK.GLControl.dll
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\OpenTK.pdb
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\OpenTK.xml
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\OpenTK.GLControl.pdb
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\bin\Debug\OpenTK.GLControl.xml
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\obj\Debug\AtributeFizice3d.csproj.CopyComplete
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\obj\Debug\AtributeFizice3d.exe
+D:\Programare\EGC\Exercitii\AtributeFizice3d\AtributeFizice3d\obj\Debug\AtributeFizice3d.pdb
