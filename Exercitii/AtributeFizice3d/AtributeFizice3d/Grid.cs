@@ -43,7 +43,6 @@ namespace AtributeFizice3d
                 {
                     GL.Vertex3(i + MICRO_OFFSET, 0, POINT_OFFSET);
                     GL.Vertex3(i + MICRO_OFFSET, 0, -1 * POINT_OFFSET);
-                    // > Cod ramas in clip lipsa!
                 }
             }
         }

@@ -17,9 +17,9 @@ namespace AtributeFizice3d
         private KeyboardState previousKeyboard;
         private MouseState previousMouse;
         private readonly Randomizer rando;
-        private readonly Axes ax;
-        private readonly Grid grid;
-        private readonly Camera3DIsometric cam;
+        private readonly Axes ax = new Axes();
+        private readonly Grid grid = new Grid();
+        private readonly Camera3DIsometric cam = new Camera3DIsometric();
 
         private readonly Color DEFAULT_BACKGROUND_COLOR = Color.FromArgb(49, 50, 51);
 
@@ -77,6 +77,7 @@ namespace AtributeFizice3d
             if (currentkeyboard[Key.Q]) { cam.MoveUp(); }
             if (currentkeyboard[Key.E]) { cam.MoveDown(); }
 
+
             previousKeyboard = currentkeyboard;
             previousMouse = currentmouse;
 
@@ -88,7 +89,6 @@ namespace AtributeFizice3d
             GL.Clear(ClearBufferMask.ColorBufferBit);
             GL.Clear(ClearBufferMask.DepthBufferBit);
 
-            grid.Draw();
             ax.Draw();
 
             Objectoid obj = new Objectoid();
