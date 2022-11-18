@@ -1,0 +1,15 @@
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\Pregatire_Test.exe.config
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\Pregatire_Test.exe
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\Pregatire_Test.pdb
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\OpenTK.dll
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\OpenTK.GLControl.dll
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\OpenTK.pdb
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\OpenTK.xml
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\OpenTK.GLControl.pdb
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\bin\Debug\OpenTK.GLControl.xml
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\obj\Debug\Pregatire_Test.csproj.AssemblyReference.cache
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\obj\Debug\Pregatire_Test.csproj.SuggestedBindingRedirects.cache
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\obj\Debug\Pregatire_Test.csproj.CoreCompileInputs.cache
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\obj\Debug\Pregatire_Test.csproj.CopyComplete
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\obj\Debug\Pregatire_Test.exe
+D:\Programare\EGC\Exercitii\Pregatire_Test\Pregatire_Test\obj\Debug\Pregatire_Test.pdb
